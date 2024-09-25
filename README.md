@@ -6,7 +6,7 @@ Repositório com apresentação sobre edge computing da disciplina _sistemas dis
 
 
 ### Team
-* Scrum Master & configuration manager [Alex F.](https://github.com/alexfrnn)
-* Developer [Izabelly Freitas](https://github.com/Izahfreitas)
-* Developer [Davi Morato](https://github.com/DaviM-afk)
-* Developer [Marcos Vinicius](https://github.com/Marcosvfnascimento)
+* Scrum Master & configuration manager - [Alex F.](https://github.com/alexfrnn)
+* Developer - [Izabelly Freitas](https://github.com/Izahfreitas)
+* Developer -[Davi Morato](https://github.com/DaviM-afk)
+* Developer - [Marcos Vinicius](https://github.com/Marcosvfnascimento)
